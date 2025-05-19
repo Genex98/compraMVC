@@ -1,0 +1,11 @@
+{
+    "name": "gene/compra",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Gene\\Compra\\": "app/"
+        }
+    },
+    "minimum-stability": "beta",
+    "require": {}
+}
